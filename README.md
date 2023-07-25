@@ -1,6 +1,6 @@
 ##### Who am I?
 
-I am a 16 year old programmer from Russia living in Israel.
+I am a 17 year old programmer from Russia living in Israel.
 
 
 ##### Donations
