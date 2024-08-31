@@ -1,7 +1,6 @@
 ##### Who am I?
 
-I am a 17 year old programmer from Russia living in Israel.
-
+Python programmer, student at the University of Latvia. 
 
 ##### Donations
 
