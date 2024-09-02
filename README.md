@@ -4,7 +4,7 @@ Programmer, currently based in Riga, Latvia
 
 
 ## My Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=FastAPI&logoColor=white)![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6f7f6f?style=for-the-badge&logo=SQLAlchemy&logoColor=white)![Telegram](https://img.shields.io/badge/Telegram bots-27a6e5.svg?style=for-the-badge&logo=telegram&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=Pandas&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=FastAPI&logoColor=white)![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6f7f6f?style=for-the-badge&logo=SQLAlchemy&logoColor=white)![Telegram](https://img.shields.io/badge/Telegram%20bots-27a6e5.svg?style=for-the-badge&logo=telegram&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=Pandas&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)![Nuxt.js](https://img.shields.io/badge/NUXTJS-040621?style=for-the-badge&logo=nuxtdotjs&logoColor=#00dc82)
 
